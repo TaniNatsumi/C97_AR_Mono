@@ -325,6 +325,16 @@
 			"Id": "Param_Angle_Rotation_7_ArtMesh20",
 			"GroupId": "ParamGroup4",
 			"Name": "[6]頭リボンL"
+		},
+		{
+			"Id": "ParamPixel1",
+			"GroupId": "",
+			"Name": "ピクセル1"
+		},
+		{
+			"Id": "ParamPixel2",
+			"GroupId": "",
+			"Name": "ピクセル2"
 		}
 	],
 	"ParameterGroups": [
@@ -376,8 +386,16 @@
 	],
 	"Parts": [
 		{
+			"Id": "Part33",
+			"Name": "logo_marker.png"
+		},
+		{
 			"Id": "Part",
 			"Name": "*物述有栖"
+		},
+		{
+			"Id": "Part29",
+			"Name": "効果ピクセル"
 		},
 		{
 			"Id": "PartCore",
@@ -402,6 +420,18 @@
 		{
 			"Id": "Part23",
 			"Name": "*頭リボン_後ろ"
+		},
+		{
+			"Id": "Part32",
+			"Name": "効果ピクセル根本"
+		},
+		{
+			"Id": "Part30",
+			"Name": "効果ピクセル"
+		},
+		{
+			"Id": "Part31",
+			"Name": "効果ピクセル背後"
 		},
 		{
 			"Id": "Part4",

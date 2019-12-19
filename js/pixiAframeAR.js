@@ -25,7 +25,7 @@ window.onload = function () {
 			var motions = [];
 			var animation = LIVE2DCUBISMFRAMEWORK.Animation;
 			var override = LIVE2DCUBISMFRAMEWORK.BuiltinAnimationBlenders.OVERRIDE;
-			motions.push(animation.fromMotion3Json(resources['C97_Mono1'].data));
+			motions.push(animation.fromMotion3Json(resources['motion2'].data));
 			//motions.push(animation.fromMotion3Json(resources['motion3'].data));
 			//motions.push(animation.fromMotion3Json(resources['motion4'].data));
 			//motions.push(animation.fromMotion3Json(resources['motion5'].data));

@@ -141,10 +141,10 @@ window.onload = function () {
 		var plane = document.createElement('a-plane');
 		plane.setAttribute('plane', '');
 		plane.setAttribute('color', '#000');
-		plane.setAttribute('height', '7');
-		plane.setAttribute('width', '7');
+		plane.setAttribute('height', '10');
+		plane.setAttribute('width', '10');
 		//�}�[�J�[����ɂ������f���̑��Έʒu
-		plane.setAttribute('position', '0 0 0');
+		('position', '1.4 2.5 0')
 		var stand = stand_mode ? '0 0 0' : '-90 0 0';
 		plane.setAttribute('rotation', stand);
 		marker.appendChild(plane);

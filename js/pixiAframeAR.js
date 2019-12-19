@@ -85,7 +85,7 @@ window.onload = function () {
 			var loader = new PIXI.loaders.Loader();
 			loader.add('model3', "assets/C97_Mono/C97_Mono.model3.json", xhrType);
 			loader.add('motion1', "assets/C97_Mono/motions/C97_Mono1.motion3.json", xhrType);
-			//loader.add('motion2', "assets/Koharu/Koharu_02.motion3.json", xhrType);
+			loader.add('motion2', "assets/Koharu/Koharu_02.motion3.json", xhrType);
 			//loader.add('motion3', "assets/Koharu/Koharu_03.motion3.json", xhrType);
 			//loader.add('motion4', "assets/Koharu/Koharu_04.motion3.json", xhrType);
 			//loader.add('motion5', "assets/Koharu/Koharu_05.motion3.json", xhrType);

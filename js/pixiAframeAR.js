@@ -144,7 +144,7 @@ window.onload = function () {
 		plane.setAttribute('height', '5');
 		plane.setAttribute('width', '5');
 		//�}�[�J�[����ɂ������f���̑��Έʒu
-		plane.setAttribute('position', '1.4 1 0')
+		plane.setAttribute('position', '1.4 2.5 0')
 		var stand = stand_mode ? '0 0 0' : '-90 0 0';
 		plane.setAttribute('rotation', stand);
 		marker.appendChild(plane);

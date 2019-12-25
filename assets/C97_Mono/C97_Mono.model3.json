@@ -5,7 +5,14 @@
 		"Textures": [
 			"C97_Mono.2048/texture_00.png"
 		],
-		"DisplayInfo": "C97_Mono.cdi3.json"
+		"DisplayInfo": "C97_Mono.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/C97_Mono1.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
@@ -18,5 +25,6 @@
 			"Name": "LipSync",
 			"Ids": []
 		}
-	]
+	],
+	"HitAreas": []
 }

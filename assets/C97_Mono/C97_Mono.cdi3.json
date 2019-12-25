@@ -328,82 +328,82 @@
 		},
 		{
 			"Id": "ParamPixel1",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "ピクセル1"
 		},
 		{
 			"Id": "ParamPixel2",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "ピクセル2"
 		},
 		{
 			"Id": "ParamEffectLight1",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト1"
 		},
 		{
 			"Id": "ParamEffectLight2",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト2"
 		},
 		{
 			"Id": "ParamEffectLightRotate",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3回転"
 		},
 		{
 			"Id": "ParamEffectLight3_1",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3-1"
 		},
 		{
 			"Id": "ParamEffectLight3_2",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3-2"
 		},
 		{
 			"Id": "ParamEffectLight3_3",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3-3"
 		},
 		{
 			"Id": "ParamEffectLight3_4",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3-4"
 		},
 		{
 			"Id": "ParamEffectLight3_5",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3-5"
 		},
 		{
 			"Id": "ParamEffectLight3_6",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3-6"
 		},
 		{
 			"Id": "ParamEffectLight3_7",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3-7"
 		},
 		{
 			"Id": "ParamEffectLight3_8",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "発光エフェクト3-8"
 		},
 		{
 			"Id": "ParamBaseX",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "全体の左右"
 		},
 		{
 			"Id": "ParamBaseY",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "全体の上下"
 		},
 		{
 			"Id": "ParamBaseScale",
-			"GroupId": "",
+			"GroupId": "ParamGroup5",
 			"Name": "全体の拡縮"
 		}
 	],
@@ -452,13 +452,14 @@
 			"Id": "ParamGroup4",
 			"GroupId": "",
 			"Name": "頭リボンL"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "エフェクト"
 		}
 	],
 	"Parts": [
-		{
-			"Id": "Part58",
-			"Name": "物述有栖_import_t02.psd（対応無し）"
-		},
 		{
 			"Id": "Part33",
 			"Name": "logo_marker.png"
@@ -472,8 +473,8 @@
 			"Name": "*発光エフェクト"
 		},
 		{
-			"Id": "Part29",
-			"Name": "効果ピクセル"
+			"Id": "Part44",
+			"Name": "ピクセル効果"
 		},
 		{
 			"Id": "PartCore",
@@ -504,16 +505,8 @@
 			"Name": "発光エフェクト3"
 		},
 		{
-			"Id": "Part32",
-			"Name": "効果ピクセル根本"
-		},
-		{
-			"Id": "Part30",
+			"Id": "Part29",
 			"Name": "効果ピクセル"
-		},
-		{
-			"Id": "Part31",
-			"Name": "効果ピクセル背後"
 		},
 		{
 			"Id": "Part4",
@@ -594,6 +587,18 @@
 		{
 			"Id": "Part36",
 			"Name": "発光エフェクト3-1"
+		},
+		{
+			"Id": "Part32",
+			"Name": "効果ピクセル根本"
+		},
+		{
+			"Id": "Part30",
+			"Name": "効果ピクセル"
+		},
+		{
+			"Id": "Part31",
+			"Name": "効果ピクセル背後"
 		},
 		{
 			"Id": "Part6",
